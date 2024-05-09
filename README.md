@@ -6,7 +6,9 @@ This repository contains a demonstration of a heatmap implemented using Plotly.j
 
 The demo provides an interactive heatmap visualization, leveraging Plotly.js' capabilities to efficiently render up to 36 million data points with downsampling.
 
-<img width="736" alt="Screenshot 2023-11-28 at 6 13 49 PM" src="https://github.com/masoudmanson/plotly-js-heatmap/assets/927990/b1092016-3ad1-4e10-8be4-b37997a5cfec">
+<p align="center">
+  <img width="813" alt="286441946-b1092016-3ad1-4e10-8be4-b37997a5cfec (1)" src="https://github.com/masoudmanson/plotly-js-heatmap/assets/927990/6af39d54-bbea-4c0b-a2a8-31004b37ddc0">
+</p>
 
 ### Features
 
